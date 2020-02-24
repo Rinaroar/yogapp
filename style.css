@@ -1,0 +1,31 @@
+body {
+  font: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: 100% #FCF4FC; }
+
+header h1 {
+  font-size: 36px;
+  text-align: center;
+  margin-top: 15%;
+  line-height: 1.3em;
+  color: #524BE7; }
+
+main img {
+  width: 80%;
+  margin: 10% 10% 0; }
+main .description {
+  color: #575988;
+  text-align: center;
+  margin: 15% 10% 0;
+  font-size: 14px;
+  line-height: 1.4em; }
+main .started {
+  background-color: #524BE7;
+  border: none;
+  border-radius: 12px;
+  width: 80%;
+  margin: 10% 10%;
+  padding: 12px 28px;
+  text-decoration: none;
+  color: white; }
+
+/*# sourceMappingURL=style.css.map */
